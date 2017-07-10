@@ -1,0 +1,12 @@
+.project
+{
+    font-family: 'Inconsolata', monospace;
+    letter-spacing: 2px;
+    color: slategrey;
+}
+
+.cardHandler
+{
+    font-family: 'Inconsolata', monospace;
+    font-weight: bolder;
+}

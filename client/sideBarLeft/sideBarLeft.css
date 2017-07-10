@@ -1,0 +1,39 @@
+.sidenav
+{
+    height: 100%;
+    width: 17%;
+    z-index: 1;
+    position: fixed;
+    overflow-x: hidden;
+    background-color: white;
+    padding-top: 5%;
+    /*border-right: 2px solid #ffaa2a;*/
+}
+
+.portrait
+{
+    border-bottom: 5px solid #ffaa2a;
+    padding-bottom: 5%;
+}
+
+.sideButtons
+{
+}
+
+.buttonSideNav:hover
+{
+    background-color: #ffca2f;
+}
+
+.buttonSideNav
+{
+    margin-top: 20%;
+    width: 65%;
+    font-family: 'Inconsolata', monospace;
+    font-size: 100%;
+    color: floralwhite;
+    letter-spacing: 1px;
+    border-radius: 2px;
+    background-color: #ffaa2a;
+    display: inline-block;
+}

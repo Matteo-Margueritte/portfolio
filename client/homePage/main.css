@@ -1,0 +1,32 @@
+.topHeader
+{
+	font-family: 'Inconsolata', monospace;
+    letter-spacing: 2px;
+	width: 100%;
+	background-color: white;
+	text-align: center;
+	display: block;
+    color: slategrey;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    border-bottom: 5px solid deepskyblue;
+}
+
+.myInfo
+{
+    font-family: 'Inconsolata', monospace;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    letter-spacing: 1px;
+    color: slategrey;
+}
+
+.blueText
+{
+    color: deepskyblue;
+}
+
+.lastName
+{
+	color: deepskyblue;
+}
