@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26722ec3-f4e3-4c06-b735-d88bde028e7b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/portfolio.iml" afterPath="$PROJECT_DIR$/.idea/portfolio.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/contactPage/contact.css" afterPath="$PROJECT_DIR$/client/contactPage/contact.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,8 +44,8 @@
           <file leaf-file-name="project.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/client/projectPage/project.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="663">
-                  <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+                <state relative-caret-position="714">
+                  <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -129,7 +131,7 @@
             <entry file="file://$PROJECT_DIR$/client/contactPage/contact.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="119">
-                  <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+                  <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -186,8 +188,8 @@
         <option value="$PROJECT_DIR$/client/sideBarLeft/sideBarLeft.html" />
         <option value="$PROJECT_DIR$/client/sideBarLeft/sideBarLeft.css" />
         <option value="$PROJECT_DIR$/client/contactPage/contact.html" />
-        <option value="$PROJECT_DIR$/client/projectPage/project.html" />
         <option value="$PROJECT_DIR$/client/contactPage/contact.css" />
+        <option value="$PROJECT_DIR$/client/projectPage/project.html" />
       </list>
     </option>
   </component>
@@ -476,12 +478,12 @@
       <workItem from="1499610047744" duration="52000" />
       <workItem from="1499610890224" duration="13732000" />
       <workItem from="1499677512037" duration="5598000" />
-      <workItem from="1499708076693" duration="1856000" />
+      <workItem from="1499708076693" duration="2237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41457000" />
+    <option name="totallyTimeSpent" value="41838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="0" width="1872" height="1080" extended-state="6" />
@@ -886,8 +888,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/projectPage/project.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -908,18 +910,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/contactPage/contact.css">
+    <entry file="file://$PROJECT_DIR$/client/projectPage/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="714">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/projectPage/project.html">
+    <entry file="file://$PROJECT_DIR$/client/contactPage/contact.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
