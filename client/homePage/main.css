@@ -3,7 +3,7 @@
 	font-family: 'Inconsolata', monospace;
     letter-spacing: 2px;
 	width: 100%;
-	background-color: white;
+    background-image: url('/keyboards.jpg');
 	text-align: center;
 	display: block;
     color: slategrey;
@@ -12,13 +12,26 @@
     border-bottom: 5px solid deepskyblue;
 }
 
+.card-panel
+{
+    opacity: 0.9;
+}
+
 .myInfo
 {
     font-family: 'Inconsolata', monospace;
     padding-bottom: 5%;
     padding-top: 5%;
     letter-spacing: 1px;
+    overflow-x: hidden;
+    background-image: url('whirlpool.png');
     color: slategrey;
+}
+
+.lineBgd
+{
+    overflow-x: hidden;
+    background-image: url('whirlpool.png');
 }
 
 .blueText

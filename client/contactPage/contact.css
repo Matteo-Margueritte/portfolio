@@ -4,5 +4,23 @@
     overflow-x: hidden;
     font-family: 'Inconsolata', monospace;
     color:whitesmoke;
+    opacity: 0.9;
     background-color: deepskyblue;
+}
+
+.contactText
+{
+    color: whitesmoke;
+}
+
+.contactText:hover
+{
+    color: #0057ff;
+}
+
+.contactRow
+{
+    width: 100%;
+    border-radius: 2px;
+    background-color: #007fff;
 }
