@@ -1,2 +1,2 @@
-# portfolio
-My portfolio (WIP)
+# Portfolio
+My portfolio
